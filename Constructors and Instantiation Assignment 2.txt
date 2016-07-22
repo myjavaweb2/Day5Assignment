@@ -1,0 +1,48 @@
+Kamaldeen Alabi
+July 22, 2016
+
+Constructors and Instantiation 2 Assignment
+
+
+For each instantiation presented, provided the required constructor declaration.
+
+1) new Car()
+
+	public Car()
+
+2) new Car("Red", 4)
+
+	public Bus(String exteriorColor, int numberAvailable) 
+
+3) new Bus(32)
+
+	public Bus(int seats)
+
+4) new HotDog("Ketchup", "Mustard")
+
+	public HotDog(String[] args)
+
+5) new Aroma("Bad")
+
+	public Aroma(String quality)
+
+6) new Behavior(true)
+
+	public Behavior(boolean isNiceOrNot)
+
+7) new Assignment(false)
+
+	public Assignment(boolean isAssignmentOrNot)
+
+8) new AstronomicalDistance(10, 20)
+
+	public AstronomicalDistance(Integer[] args)
+
+9) new DateTime(2016, 07, 22)
+
+	public DateTime(Date todayDateMonthYear)
+
+10) new Assignment("You are done! Go Home!")
+
+	 public Assignment(String whatDidYouSaid)
+

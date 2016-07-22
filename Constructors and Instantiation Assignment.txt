@@ -1,0 +1,46 @@
+Kamaldeen Alabi
+July 22, 2016
+
+Constructors and Instantiation Assignment
+
+
+
+1) public Car()
+
+	new Car()
+
+2) public Bean(int weight)
+
+	new Bean(250)
+
+3) public Airplane(long maxDistance)
+
+	new Airplane(256950)
+
+4) public Bus(int seats)
+
+	new Bus(75)
+
+5) public SkiLift(int chairs, float maxSpeed, float maxCapacity)
+
+	new SkiLift(12, 120.2f, 80640.7f)
+
+6) public Gondola(int maxOccupancy)
+
+	new Gondola(276)
+
+7) public Data(String[] args)
+
+	new Data("Elementary", "Middle", "High", "College")
+
+8) public CelestialObject(Double distanceFromSol)
+
+	new CelestialObject(825.6)
+
+9) public Sun(Double maxSurfaceTemperature)
+
+	new Sun(179.3)
+
+10) public Pluto(boolean isPlanetOrNot)
+
+	new Pluto(true)
